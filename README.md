@@ -1,5 +1,7 @@
 # 50!Mania - CS50G final project by Miguel Gonzalez
 
+<img alt="screen" src="https://user-images.githubusercontent.com/44068372/100547206-c13cb900-3265-11eb-98e0-fad26fba13e4.png" width="600"/>
+
 ## Usage
 
 This repository constitutes a LOVE2D project that can be run with Love2D as specified on https://love2d.org/wiki/Getting_Started.
